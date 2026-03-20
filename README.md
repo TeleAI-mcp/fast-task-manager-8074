@@ -1,2 +1,3 @@
-# fast-task-manager-8074
+# Fast Task Manager 8074
+
 A repository to test GitHub automation for issue management.
